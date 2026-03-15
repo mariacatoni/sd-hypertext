@@ -1,0 +1,58 @@
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 125%;
+}
+
+.container { 
+    font-family: "Inter", sans-serif;
+    width: 80vw;
+    margin: auto;
+}
+
+.heading {
+    margin: 15px;
+}
+
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.card {
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: 15px;
+    width: 20%;
+}
+
+.card1 {
+    border: 1px gray solid;
+
+}
+
+.card2 {
+    background-color: black;
+    color: white;
+}
+
+.card3 {
+    border: 1px gray solid;
+    h2 {
+        background-color: pink;
+    }
+}
+
+.card4 {
+    border: 2px navy solid;
+    h2 {
+        color: crimson;
+    }
+}
