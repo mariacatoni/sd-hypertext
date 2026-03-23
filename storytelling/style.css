@@ -1,0 +1,38 @@
+body {
+  /*background-color: rgb(1, 1, 27);*/
+}
+
+.container {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.page-head {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  /*color: rgb(255, 123, 145);*/
+}
+
+.story-text {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  /*color: cornsilk;*/
+}
+
+.story-links {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/*
+a {
+  color: pink;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+  */
