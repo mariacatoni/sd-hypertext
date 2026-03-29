@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #960811;
 }
 
 .container{
@@ -15,11 +15,11 @@ body {
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap; 
-    border: #e26a12 solid 10px;
-    box-shadow: 10px 10px #c43611;
+    border: #e81813 solid 10px;
+    box-shadow: 10px 10px #560d04;
     width: 80vh;
     height: 60vh;
-    background-color: #2a1a14;
+    background-color: #3f0011;
 }
 
 /* title area */
@@ -58,7 +58,7 @@ body {
   font-size: large;
   color: #fcfcfc;
   max-height: 20vh;
-  border:#e26a12 2px solid;
+  border: #a75d69 2px solid;
   border-radius: 10px;
   padding-left: 20px;
   padding-right: 20px;
@@ -66,7 +66,7 @@ body {
   flex-direction: column;
   justify-content: center;
   overflow: auto;
-  background-color: #5d342a;
+  background-color: #960811;
 }
 
 .story-links {
